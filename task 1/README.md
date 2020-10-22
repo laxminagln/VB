@@ -9,7 +9,7 @@ Problem Statement
         pkg_task1
 
 pkg_ros_iot_bridge
-![image]("https://portal.e-yantra.org/storage/xyBeoIQDWX_vb/eyrc/task1/media/images/pkg_ros_iot_bridge.png")
+![image](pkg_ros_iot_bridge.png)
 e-yantra
 node_action_server_ros_iot_bridge.py
 
