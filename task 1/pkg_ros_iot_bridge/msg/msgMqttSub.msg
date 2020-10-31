@@ -1,2 +1,3 @@
+time timestamp
 string topic
-string payload
+string message
