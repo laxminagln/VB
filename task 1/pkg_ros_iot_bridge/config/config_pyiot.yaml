@@ -1,0 +1,12 @@
+config_pyiot:
+  mqtt:
+    server_url: "broker.mqttdashboard.com"
+    server_port: 1883
+    topic_sub: "/eyrc/ApAnGoLa/iot_to_ros"
+    topic_pub: "/eyrc/ApAnGoLa/ros_to_iot"
+    qos: 0
+
+    sub_cb_ros_topic: "node_action_server_ros_iot_bridge.py"
+
+  google_apps:
+    spread_sheet_id: "AKfycbzbuynqMRUxELtCYGSv23gepkxy6FG_ij9xxC91AsF6ufbvLnY"
