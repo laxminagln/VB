@@ -1,4 +1,4 @@
-<center><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VB</h1></center>
+# VB
 
 ### eYRC2020 team#193
 ```
